@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>      - developing equalhelper webiste.<br>🔭 My next task:<br>      - Finsh my spotify side project.<br>🌱 I’m currently learning objective:<br>      - Pass AWS Certified Solutions Architect – Associate Certification exam.<br>💬 My status:<br>      - Studying Master of Data Science at Monash University, in my final semester.<br>⚡ Habbit:<br>     - Badminton<br>     - Gym<br>     - Gaming<br>     - Dog
+🔭 I’m currently working on:<br>      - developing equalhelper webiste.<br>🔭 My next task:<br>      - Finsh my spotify side project.<br>🌱 My current learning objective:<br>      - Pass AWS Certified Solutions Architect – Associate Certification exam.<br>💬 My status:<br>      - Studying Master of Data Science at Monash University, in my final semester.<br>⚡ Habbit:<br>     - Badminton<br>     - Gym<br>     - Gaming<br>     - Dog
 
 
 # 💻 Tech Stack:
