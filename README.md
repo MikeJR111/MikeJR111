@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>      - developing equalhelper webiste. [Repository](https://github.com/MikeJR111/FIT5120_TP12_Data_Governance) <br>🔭 My next task:<br>      - Finsh my spotify side project. [Repository](https://github.com/MikeJR111/Spotify-Top-50-Song-Data-ETL-Pipeline-and-Analysis) <br>🌱 My current learning objective:<br>      - Pass AWS Certified Solutions Architect – Associate Certification exam.<br>💬 My status:<br>      - Studying Master of Data Science at Monash University, in my final semester.<br>⚡ Habbit:<br>     - Badminton<br>     - Gym<br>     - Gaming<br>     - Dog
+🔭 I’m currently working on:<br>      - developing equalhelper webiste. [Repository](https://github.com/MikeJR111/FIT5120_TP12_Data_Governance) <br>🔭 My next task:<br>      - Finsh my spotify side project. [Repository](https://github.com/MikeJR111/Spotify-Top-50-Song-Data-ETL-Pipeline-and-Analysis) <br>🌱 My current learning objective:<br>      - Pass AWS Certified Solutions Architect – Associate Certification exam.<br>💬 My status:<br>      - Studying Master of Data Science at Monash University, in my final semester. Actively looking for Data analyst and Data engineer role<br>⚡ Habbit:<br>     - Badminton<br>     - Gym<br>     - Gaming<br>     - Dog
 
 
 # 💻 Tech Stack:
